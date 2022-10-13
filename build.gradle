@@ -6,7 +6,7 @@ jar {
     archivesBaseName = "ThreeLayerApp"
     duplicatesStrategy = DuplicatesStrategy.EXCLUDE
     manifest {
-        attributes "Main-class": "edu.virginia.cs.threelayer.Main.*"
+        attributes "Main-class": "edu.virginia.cs.threelayer.presentation.args.Main"
     }
 
     from {
@@ -20,7 +20,9 @@ repositories {
 
 dependencies {
     implementation group: 'org.json', name: 'json', version: '20220924'
+    implementation 'org.jetbrains:annotations:20.1.0'
 
+    testImplementation group: 'org.mockito', name: 'mockito-core', version: '4.8.0'
     testImplementation 'org.junit.jupiter:junit-jupiter-api:5.8.1'
     testRuntimeOnly 'org.junit.jupiter:junit-jupiter-engine:5.8.1'
 }

@@ -1,0 +1,1063 @@
+{
+  "status": "OK",
+  "copyright": "Copyright (c) 2022 The New York Times Company.  All Rights Reserved.",
+  "num_results": 15,
+  "last_modified": "2022-10-12T22:22:46-04:00",
+  "results": {
+    "list_name": "Combined Print and E-Book Fiction",
+    "list_name_encoded": "combined-print-and-e-book-fiction",
+    "bestsellers_date": "2022-10-08",
+    "published_date": "2022-10-23",
+    "published_date_description": "latest",
+    "next_published_date": "",
+    "previous_published_date": "2022-10-16",
+    "display_name": "Combined Print & E-Book Fiction",
+    "normal_list_ends_at": 15,
+    "updated": "WEEKLY",
+    "books": [
+      {
+        "rank": 1,
+        "rank_last_week": 0,
+        "weeks_on_list": 1,
+        "asterisk": 0,
+        "dagger": 0,
+        "primary_isbn10": "0593422481",
+        "primary_isbn13": "9780593422489",
+        "publisher": "Putnam",
+        "description": "The 32nd book in the Prey series. Virgil Flowers and Lucas Davenport go after a group of vigilante killers.",
+        "price": "0.00",
+        "title": "RIGHTEOUS PREY",
+        "author": "John Sandford",
+        "contributor": "by John Sandford",
+        "contributor_note": "",
+        "book_image": "https:\/\/storage.googleapis.com\/du-prd\/books\/images\/9780593422472.jpg",
+        "book_image_width": 332,
+        "book_image_height": 500,
+        "amazon_product_url": "https:\/\/www.amazon.com\/dp\/0593422473?tag=NYTBSREV-20",
+        "age_group": "",
+        "book_review_link": "",
+        "first_chapter_link": "",
+        "sunday_review_link": "",
+        "article_chapter_link": "",
+        "isbns": [
+          {
+            "isbn10": "0593422473",
+            "isbn13": "9780593422472"
+          },
+          {
+            "isbn10": "0593422481",
+            "isbn13": "9780593422489"
+          },
+          {
+            "isbn10": "059363263X",
+            "isbn13": "9780593632635"
+          }
+        ],
+        "buy_links": [
+          {
+            "name": "Amazon",
+            "url": "https:\/\/www.amazon.com\/dp\/0593422473?tag=NYTBSREV-20"
+          },
+          {
+            "name": "Apple Books",
+            "url": "https:\/\/goto.applebooks.apple\/9780593422489?at=10lIEQ"
+          },
+          {
+            "name": "Barnes and Noble",
+            "url": "https:\/\/www.anrdoezrs.net\/click-7990613-11819508?url=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2F%3Fean%3D9780593422489"
+          },
+          {
+            "name": "Books-A-Million",
+            "url": "https:\/\/du-gae-books-dot-nyt-du-prd.appspot.com\/redirect?url1=https%3A%2F%2Fwww.anrdoezrs.net%2Fclick-7990613-35140%3Furl%3Dhttps%253A%252F%252Fwww.booksamillion.com%252Fp%252FRIGHTEOUS%252BPREY%252FJohn%252BSandford%252F9780593422489&url2=https%3A%2F%2Fwww.anrdoezrs.net%2Fclick-7990613-35140%3Furl%3Dhttps%253A%252F%252Fwww.booksamillion.com%252Fsearch%253Fquery%253DRIGHTEOUS%252BPREY%252BJohn%252BSandford"
+          },
+          {
+            "name": "Bookshop",
+            "url": "https:\/\/du-gae-books-dot-nyt-du-prd.appspot.com\/redirect?url1=https%3A%2F%2Fbookshop.org%2Fa%2F3546%2F9780593422489&url2=https%3A%2F%2Fbookshop.org%2Fbooks%3Faffiliate%3D3546%26keywords%3DRIGHTEOUS%2BPREY"
+          },
+          {
+            "name": "IndieBound",
+            "url": "https:\/\/du-gae-books-dot-nyt-du-prd.appspot.com\/redirect?url1=https%3A%2F%2Fwww.indiebound.org%2Fbook%2F9780593422489%3Faff%3DNYT&url2=https%3A%2F%2Fwww.indiebound.org%2Fsearch%2Fbook%3Fkeys%3DRIGHTEOUS%2BPREY%2BJohn%2BSandford%26aff%3DNYT"
+          }
+        ],
+        "book_uri": "nyt:\/\/book\/9f8927ae-4056-5cb2-96de-8003dac031fe"
+      },
+      {
+        "rank": 2,
+        "rank_last_week": 1,
+        "weeks_on_list": 44,
+        "asterisk": 0,
+        "dagger": 0,
+        "primary_isbn10": "1538724731",
+        "primary_isbn13": "9781538724736",
+        "publisher": "Grand Central",
+        "description": "Lowen Ashleigh is hired by the husband of an injured writer to complete her popular series and uncovers a horrifying truth.",
+        "price": "0.00",
+        "title": "VERITY",
+        "author": "Colleen Hoover",
+        "contributor": "by Colleen Hoover",
+        "contributor_note": "",
+        "book_image": "https:\/\/storage.googleapis.com\/du-prd\/books\/images\/9781791392796.jpg",
+        "book_image_width": 324,
+        "book_image_height": 500,
+        "amazon_product_url": "https:\/\/www.amazon.com\/dp\/1791392792?tag=NYTBSREV-20",
+        "age_group": "",
+        "book_review_link": "",
+        "first_chapter_link": "",
+        "sunday_review_link": "",
+        "article_chapter_link": "",
+        "isbns": [
+          {
+            "isbn10": "1791392792",
+            "isbn13": "9781791392796"
+          },
+          {
+            "isbn10": "153872474X",
+            "isbn13": "9781538724743"
+          },
+          {
+            "isbn10": "1538724731",
+            "isbn13": "9781538724736"
+          },
+          {
+            "isbn10": "1538739720",
+            "isbn13": "9781538739723"
+          }
+        ],
+        "buy_links": [
+          {
+            "name": "Amazon",
+            "url": "https:\/\/www.amazon.com\/dp\/1791392792?tag=NYTBSREV-20"
+          },
+          {
+            "name": "Apple Books",
+            "url": "https:\/\/goto.applebooks.apple\/9781538724736?at=10lIEQ"
+          },
+          {
+            "name": "Barnes and Noble",
+            "url": "https:\/\/www.anrdoezrs.net\/click-7990613-11819508?url=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2F%3Fean%3D9781538724736"
+          },
+          {
+            "name": "Books-A-Million",
+            "url": "https:\/\/du-gae-books-dot-nyt-du-prd.appspot.com\/redirect?url1=https%3A%2F%2Fwww.anrdoezrs.net%2Fclick-7990613-35140%3Furl%3Dhttps%253A%252F%252Fwww.booksamillion.com%252Fp%252FVERITY%252FColleen%252BHoover%252F9781538724736&url2=https%3A%2F%2Fwww.anrdoezrs.net%2Fclick-7990613-35140%3Furl%3Dhttps%253A%252F%252Fwww.booksamillion.com%252Fsearch%253Fquery%253DVERITY%252BColleen%252BHoover"
+          },
+          {
+            "name": "Bookshop",
+            "url": "https:\/\/du-gae-books-dot-nyt-du-prd.appspot.com\/redirect?url1=https%3A%2F%2Fbookshop.org%2Fa%2F3546%2F9781538724736&url2=https%3A%2F%2Fbookshop.org%2Fbooks%3Faffiliate%3D3546%26keywords%3DVERITY"
+          },
+          {
+            "name": "IndieBound",
+            "url": "https:\/\/du-gae-books-dot-nyt-du-prd.appspot.com\/redirect?url1=https%3A%2F%2Fwww.indiebound.org%2Fbook%2F9781538724736%3Faff%3DNYT&url2=https%3A%2F%2Fwww.indiebound.org%2Fsearch%2Fbook%3Fkeys%3DVERITY%2BColleen%2BHoover%26aff%3DNYT"
+          }
+        ],
+        "book_uri": "nyt:\/\/book\/013c7729-a1de-5e5c-921a-da43243f9a4a"
+      },
+      {
+        "rank": 3,
+        "rank_last_week": 2,
+        "weeks_on_list": 69,
+        "asterisk": 0,
+        "dagger": 0,
+        "primary_isbn10": "1501110365",
+        "primary_isbn13": "9781501110368",
+        "publisher": "Atria",
+        "description": "A battered wife raised in a violent home attempts to halt the cycle of abuse.",
+        "price": "0.00",
+        "title": "IT ENDS WITH US",
+        "author": "Colleen Hoover",
+        "contributor": "by Colleen Hoover",
+        "contributor_note": "",
+        "book_image": "https:\/\/storage.googleapis.com\/du-prd\/books\/images\/9781501110375.jpg",
+        "book_image_width": 319,
+        "book_image_height": 495,
+        "amazon_product_url": "http:\/\/www.amazon.com\/Ends-Us-Novel-Colleen-Hoover-ebook\/dp\/B0176M3U10?tag=NYTBSREV-20",
+        "age_group": "",
+        "book_review_link": "",
+        "first_chapter_link": "",
+        "sunday_review_link": "",
+        "article_chapter_link": "",
+        "isbns": [
+          {
+            "isbn10": "1501110365",
+            "isbn13": "9781501110368"
+          },
+          {
+            "isbn10": "1501110373",
+            "isbn13": "9781501110375"
+          },
+          {
+            "isbn10": "1982143657",
+            "isbn13": "9781982143657"
+          },
+          {
+            "isbn10": "1508212694",
+            "isbn13": "9781508212690"
+          },
+          {
+            "isbn10": "1797107453",
+            "isbn13": "9781797107455"
+          },
+          {
+            "isbn10": "1804228206",
+            "isbn13": "9781804228203"
+          },
+          {
+            "isbn10": "1432899791",
+            "isbn13": "9781432899790"
+          }
+        ],
+        "buy_links": [
+          {
+            "name": "Amazon",
+            "url": "http:\/\/www.amazon.com\/Ends-Us-Novel-Colleen-Hoover-ebook\/dp\/B0176M3U10?tag=NYTBSREV-20"
+          },
+          {
+            "name": "Apple Books",
+            "url": "https:\/\/goto.applebooks.apple\/9781501110368?at=10lIEQ"
+          },
+          {
+            "name": "Barnes and Noble",
+            "url": "https:\/\/www.anrdoezrs.net\/click-7990613-11819508?url=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2F%3Fean%3D9781501110368"
+          },
+          {
+            "name": "Books-A-Million",
+            "url": "https:\/\/du-gae-books-dot-nyt-du-prd.appspot.com\/redirect?url1=https%3A%2F%2Fwww.anrdoezrs.net%2Fclick-7990613-35140%3Furl%3Dhttps%253A%252F%252Fwww.booksamillion.com%252Fp%252FIT%252BENDS%252BWITH%252BUS%252FColleen%252BHoover%252F9781501110368&url2=https%3A%2F%2Fwww.anrdoezrs.net%2Fclick-7990613-35140%3Furl%3Dhttps%253A%252F%252Fwww.booksamillion.com%252Fsearch%253Fquery%253DIT%252BENDS%252BWITH%252BUS%252BColleen%252BHoover"
+          },
+          {
+            "name": "Bookshop",
+            "url": "https:\/\/du-gae-books-dot-nyt-du-prd.appspot.com\/redirect?url1=https%3A%2F%2Fbookshop.org%2Fa%2F3546%2F9781501110368&url2=https%3A%2F%2Fbookshop.org%2Fbooks%3Faffiliate%3D3546%26keywords%3DIT%2BENDS%2BWITH%2BUS"
+          },
+          {
+            "name": "IndieBound",
+            "url": "https:\/\/du-gae-books-dot-nyt-du-prd.appspot.com\/redirect?url1=https%3A%2F%2Fwww.indiebound.org%2Fbook%2F9781501110368%3Faff%3DNYT&url2=https%3A%2F%2Fwww.indiebound.org%2Fsearch%2Fbook%3Fkeys%3DIT%2BENDS%2BWITH%2BUS%2BColleen%2BHoover%26aff%3DNYT"
+          }
+        ],
+        "book_uri": "nyt:\/\/book\/e2a3545e-e9cb-5828-9d97-50a798a0e4f6"
+      },
+      {
+        "rank": 4,
+        "rank_last_week": 0,
+        "weeks_on_list": 1,
+        "asterisk": 0,
+        "dagger": 0,
+        "primary_isbn10": "1984818384",
+        "primary_isbn13": "9781984818386",
+        "publisher": "Ballantine",
+        "description": "After returning to her hometown, Olivia McAfee\u2019s son gets accused of killing his crush.",
+        "price": "0.00",
+        "title": "MAD HONEY",
+        "author": "Jodi Picoult and Jennifer Finney Boylan",
+        "contributor": "by Jodi Picoult and Jennifer Finney Boylan",
+        "contributor_note": "",
+        "book_image": "https:\/\/storage.googleapis.com\/du-prd\/books\/images\/9781984818386.jpg",
+        "book_image_width": 328,
+        "book_image_height": 500,
+        "amazon_product_url": "https:\/\/www.amazon.com\/dp\/1984818384?tag=NYTBSREV-20",
+        "age_group": "",
+        "book_review_link": "",
+        "first_chapter_link": "",
+        "sunday_review_link": "",
+        "article_chapter_link": "",
+        "isbns": [
+          {
+            "isbn10": "1984818384",
+            "isbn13": "9781984818386"
+          },
+          {
+            "isbn10": "1984818392",
+            "isbn13": "9781984818393"
+          }
+        ],
+        "buy_links": [
+          {
+            "name": "Amazon",
+            "url": "https:\/\/www.amazon.com\/dp\/1984818384?tag=NYTBSREV-20"
+          },
+          {
+            "name": "Apple Books",
+            "url": "https:\/\/goto.applebooks.apple\/9781984818386?at=10lIEQ"
+          },
+          {
+            "name": "Barnes and Noble",
+            "url": "https:\/\/www.anrdoezrs.net\/click-7990613-11819508?url=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2F%3Fean%3D9781984818386"
+          },
+          {
+            "name": "Books-A-Million",
+            "url": "https:\/\/du-gae-books-dot-nyt-du-prd.appspot.com\/redirect?url1=https%3A%2F%2Fwww.anrdoezrs.net%2Fclick-7990613-35140%3Furl%3Dhttps%253A%252F%252Fwww.booksamillion.com%252Fp%252FMAD%252BHONEY%252FJodi%252BPicoult%252Band%252BJennifer%252BFinney%252BBoylan%252F9781984818386&url2=https%3A%2F%2Fwww.anrdoezrs.net%2Fclick-7990613-35140%3Furl%3Dhttps%253A%252F%252Fwww.booksamillion.com%252Fsearch%253Fquery%253DMAD%252BHONEY%252BJodi%252BPicoult%252Band%252BJennifer%252BFinney%252BBoylan"
+          },
+          {
+            "name": "Bookshop",
+            "url": "https:\/\/du-gae-books-dot-nyt-du-prd.appspot.com\/redirect?url1=https%3A%2F%2Fbookshop.org%2Fa%2F3546%2F9781984818386&url2=https%3A%2F%2Fbookshop.org%2Fbooks%3Faffiliate%3D3546%26keywords%3DMAD%2BHONEY"
+          },
+          {
+            "name": "IndieBound",
+            "url": "https:\/\/du-gae-books-dot-nyt-du-prd.appspot.com\/redirect?url1=https%3A%2F%2Fwww.indiebound.org%2Fbook%2F9781984818386%3Faff%3DNYT&url2=https%3A%2F%2Fwww.indiebound.org%2Fsearch%2Fbook%3Fkeys%3DMAD%2BHONEY%2BJodi%2BPicoult%2Band%2BJennifer%2BFinney%2BBoylan%26aff%3DNYT"
+          }
+        ],
+        "book_uri": "nyt:\/\/book\/8af7bc3e-8c1e-5bb1-820c-06169fac15b1"
+      },
+      {
+        "rank": 5,
+        "rank_last_week": 3,
+        "weeks_on_list": 5,
+        "asterisk": 0,
+        "dagger": 0,
+        "primary_isbn10": "1668002175",
+        "primary_isbn13": "9781668002179",
+        "publisher": "Scribner",
+        "description": "A high school kid inherits a shed that is a portal to another world where good and evil are at war.",
+        "price": "0.00",
+        "title": "FAIRY TALE",
+        "author": "Stephen King",
+        "contributor": "by Stephen King",
+        "contributor_note": "",
+        "book_image": "https:\/\/storage.googleapis.com\/du-prd\/books\/images\/9781668002179.jpg",
+        "book_image_width": 329,
+        "book_image_height": 500,
+        "amazon_product_url": "https:\/\/www.amazon.com\/dp\/1668002175?tag=NYTBSREV-20",
+        "age_group": "",
+        "book_review_link": "",
+        "first_chapter_link": "",
+        "sunday_review_link": "",
+        "article_chapter_link": "",
+        "isbns": [
+          {
+            "isbn10": "1668002175",
+            "isbn13": "9781668002179"
+          },
+          {
+            "isbn10": "1668002183",
+            "isbn13": "9781668002186"
+          },
+          {
+            "isbn10": "1797145282",
+            "isbn13": "9781797145280"
+          }
+        ],
+        "buy_links": [
+          {
+            "name": "Amazon",
+            "url": "https:\/\/www.amazon.com\/dp\/1668002175?tag=NYTBSREV-20"
+          },
+          {
+            "name": "Apple Books",
+            "url": "https:\/\/goto.applebooks.apple\/9781668002179?at=10lIEQ"
+          },
+          {
+            "name": "Barnes and Noble",
+            "url": "https:\/\/www.anrdoezrs.net\/click-7990613-11819508?url=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2F%3Fean%3D9781668002179"
+          },
+          {
+            "name": "Books-A-Million",
+            "url": "https:\/\/du-gae-books-dot-nyt-du-prd.appspot.com\/redirect?url1=https%3A%2F%2Fwww.anrdoezrs.net%2Fclick-7990613-35140%3Furl%3Dhttps%253A%252F%252Fwww.booksamillion.com%252Fp%252FFAIRY%252BTALE%252FStephen%252BKing%252F9781668002179&url2=https%3A%2F%2Fwww.anrdoezrs.net%2Fclick-7990613-35140%3Furl%3Dhttps%253A%252F%252Fwww.booksamillion.com%252Fsearch%253Fquery%253DFAIRY%252BTALE%252BStephen%252BKing"
+          },
+          {
+            "name": "Bookshop",
+            "url": "https:\/\/du-gae-books-dot-nyt-du-prd.appspot.com\/redirect?url1=https%3A%2F%2Fbookshop.org%2Fa%2F3546%2F9781668002179&url2=https%3A%2F%2Fbookshop.org%2Fbooks%3Faffiliate%3D3546%26keywords%3DFAIRY%2BTALE"
+          },
+          {
+            "name": "IndieBound",
+            "url": "https:\/\/du-gae-books-dot-nyt-du-prd.appspot.com\/redirect?url1=https%3A%2F%2Fwww.indiebound.org%2Fbook%2F9781668002179%3Faff%3DNYT&url2=https%3A%2F%2Fwww.indiebound.org%2Fsearch%2Fbook%3Fkeys%3DFAIRY%2BTALE%2BStephen%2BKing%26aff%3DNYT"
+          }
+        ],
+        "book_uri": "nyt:\/\/book\/1c203c2d-147d-5639-8e0c-009ba6f15698"
+      },
+      {
+        "rank": 6,
+        "rank_last_week": 5,
+        "weeks_on_list": 181,
+        "asterisk": 0,
+        "dagger": 0,
+        "primary_isbn10": "0735219109",
+        "primary_isbn13": "9780735219106",
+        "publisher": "Putnam",
+        "description": "In a quiet town on the North Carolina coast in 1969, a young woman who survived alone in the marsh becomes a murder suspect.",
+        "price": "0.00",
+        "title": "WHERE THE CRAWDADS SING",
+        "author": "Delia Owens",
+        "contributor": "by Delia Owens",
+        "contributor_note": "",
+        "book_image": "https:\/\/storage.googleapis.com\/du-prd\/books\/images\/9780735219090.jpg",
+        "book_image_width": 328,
+        "book_image_height": 495,
+        "amazon_product_url": "https:\/\/www.amazon.com\/Where-Crawdads-Sing-Delia-Owens\/dp\/0735219095?tag=NYTBSREV-20",
+        "age_group": "",
+        "book_review_link": "",
+        "first_chapter_link": "",
+        "sunday_review_link": "",
+        "article_chapter_link": "",
+        "isbns": [
+          {
+            "isbn10": "0735219095",
+            "isbn13": "9780735219090"
+          },
+          {
+            "isbn10": "0735219117",
+            "isbn13": "9780735219113"
+          },
+          {
+            "isbn10": "0525640371",
+            "isbn13": "9780525640370"
+          },
+          {
+            "isbn10": "0593105419",
+            "isbn13": "9780593105412"
+          },
+          {
+            "isbn10": "0593187989",
+            "isbn13": "9780593187982"
+          },
+          {
+            "isbn10": "0525640363",
+            "isbn13": "9780525640363"
+          },
+          {
+            "isbn10": "0735219109",
+            "isbn13": "9780735219106"
+          },
+          {
+            "isbn10": "0593540484",
+            "isbn13": "9780593540480"
+          },
+          {
+            "isbn10": "0593540352",
+            "isbn13": "9780593540350"
+          },
+          {
+            "isbn10": "1984827618",
+            "isbn13": "9781984827616"
+          }
+        ],
+        "buy_links": [
+          {
+            "name": "Amazon",
+            "url": "https:\/\/www.amazon.com\/Where-Crawdads-Sing-Delia-Owens\/dp\/0735219095?tag=NYTBSREV-20"
+          },
+          {
+            "name": "Apple Books",
+            "url": "https:\/\/goto.applebooks.apple\/9780735219106?at=10lIEQ"
+          },
+          {
+            "name": "Barnes and Noble",
+            "url": "https:\/\/www.anrdoezrs.net\/click-7990613-11819508?url=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2F%3Fean%3D9780735219106"
+          },
+          {
+            "name": "Books-A-Million",
+            "url": "https:\/\/du-gae-books-dot-nyt-du-prd.appspot.com\/redirect?url1=https%3A%2F%2Fwww.anrdoezrs.net%2Fclick-7990613-35140%3Furl%3Dhttps%253A%252F%252Fwww.booksamillion.com%252Fp%252FWHERE%252BTHE%252BCRAWDADS%252BSING%252FDelia%252BOwens%252F9780735219106&url2=https%3A%2F%2Fwww.anrdoezrs.net%2Fclick-7990613-35140%3Furl%3Dhttps%253A%252F%252Fwww.booksamillion.com%252Fsearch%253Fquery%253DWHERE%252BTHE%252BCRAWDADS%252BSING%252BDelia%252BOwens"
+          },
+          {
+            "name": "Bookshop",
+            "url": "https:\/\/du-gae-books-dot-nyt-du-prd.appspot.com\/redirect?url1=https%3A%2F%2Fbookshop.org%2Fa%2F3546%2F9780735219106&url2=https%3A%2F%2Fbookshop.org%2Fbooks%3Faffiliate%3D3546%26keywords%3DWHERE%2BTHE%2BCRAWDADS%2BSING"
+          },
+          {
+            "name": "IndieBound",
+            "url": "https:\/\/du-gae-books-dot-nyt-du-prd.appspot.com\/redirect?url1=https%3A%2F%2Fwww.indiebound.org%2Fbook%2F9780735219106%3Faff%3DNYT&url2=https%3A%2F%2Fwww.indiebound.org%2Fsearch%2Fbook%3Fkeys%3DWHERE%2BTHE%2BCRAWDADS%2BSING%2BDelia%2BOwens%26aff%3DNYT"
+          }
+        ],
+        "book_uri": "nyt:\/\/book\/08a5730d-43e5-586d-8ce6-4b891eb75fe1"
+      },
+      {
+        "rank": 7,
+        "rank_last_week": 0,
+        "weeks_on_list": 1,
+        "asterisk": 0,
+        "dagger": 0,
+        "primary_isbn10": "0593492544",
+        "primary_isbn13": "9780593492543",
+        "publisher": "Penguin Press",
+        "description": "Twelve-year-old Bird Gardner goes on a quest to find his mother, a Chinese American poet whose work he was taught to disavow.",
+        "price": "0.00",
+        "title": "OUR MISSING HEARTS",
+        "author": "Celeste Ng",
+        "contributor": "by Celeste Ng",
+        "contributor_note": "",
+        "book_image": "https:\/\/storage.googleapis.com\/du-prd\/books\/images\/9780593492543.jpg",
+        "book_image_width": 331,
+        "book_image_height": 500,
+        "amazon_product_url": "https:\/\/www.amazon.com\/dp\/0593492544?tag=NYTBSREV-20",
+        "age_group": "",
+        "book_review_link": "",
+        "first_chapter_link": "",
+        "sunday_review_link": "",
+        "article_chapter_link": "",
+        "isbns": [
+          {
+            "isbn10": "0593492544",
+            "isbn13": "9780593492543"
+          }
+        ],
+        "buy_links": [
+          {
+            "name": "Amazon",
+            "url": "https:\/\/www.amazon.com\/dp\/0593492544?tag=NYTBSREV-20"
+          },
+          {
+            "name": "Apple Books",
+            "url": "https:\/\/goto.applebooks.apple\/9780593492543?at=10lIEQ"
+          },
+          {
+            "name": "Barnes and Noble",
+            "url": "https:\/\/www.anrdoezrs.net\/click-7990613-11819508?url=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2F%3Fean%3D9780593492543"
+          },
+          {
+            "name": "Books-A-Million",
+            "url": "https:\/\/du-gae-books-dot-nyt-du-prd.appspot.com\/redirect?url1=https%3A%2F%2Fwww.anrdoezrs.net%2Fclick-7990613-35140%3Furl%3Dhttps%253A%252F%252Fwww.booksamillion.com%252Fp%252FOUR%252BMISSING%252BHEARTS%252FCeleste%252BNg%252F9780593492543&url2=https%3A%2F%2Fwww.anrdoezrs.net%2Fclick-7990613-35140%3Furl%3Dhttps%253A%252F%252Fwww.booksamillion.com%252Fsearch%253Fquery%253DOUR%252BMISSING%252BHEARTS%252BCeleste%252BNg"
+          },
+          {
+            "name": "Bookshop",
+            "url": "https:\/\/du-gae-books-dot-nyt-du-prd.appspot.com\/redirect?url1=https%3A%2F%2Fbookshop.org%2Fa%2F3546%2F9780593492543&url2=https%3A%2F%2Fbookshop.org%2Fbooks%3Faffiliate%3D3546%26keywords%3DOUR%2BMISSING%2BHEARTS"
+          },
+          {
+            "name": "IndieBound",
+            "url": "https:\/\/du-gae-books-dot-nyt-du-prd.appspot.com\/redirect?url1=https%3A%2F%2Fwww.indiebound.org%2Fbook%2F9780593492543%3Faff%3DNYT&url2=https%3A%2F%2Fwww.indiebound.org%2Fsearch%2Fbook%3Fkeys%3DOUR%2BMISSING%2BHEARTS%2BCeleste%2BNg%26aff%3DNYT"
+          }
+        ],
+        "book_uri": "nyt:\/\/book\/2f2fce78-87d5-5355-9891-8abe4d77f407"
+      },
+      {
+        "rank": 8,
+        "rank_last_week": 6,
+        "weeks_on_list": 3,
+        "asterisk": 0,
+        "dagger": 0,
+        "primary_isbn10": "059344955X",
+        "primary_isbn13": "9780593449554",
+        "publisher": "Random House",
+        "description": "Musicians from different backgrounds are attracted to each other and a mother flees with her son from an abusive husband.",
+        "price": "0.00",
+        "title": "DREAMLAND",
+        "author": "Nicholas Sparks",
+        "contributor": "by Nicholas Sparks",
+        "contributor_note": "",
+        "book_image": "https:\/\/storage.googleapis.com\/du-prd\/books\/images\/9780593449554.jpg",
+        "book_image_width": 331,
+        "book_image_height": 500,
+        "amazon_product_url": "https:\/\/www.amazon.com\/dp\/059344955X?tag=NYTBSREV-20",
+        "age_group": "",
+        "book_review_link": "",
+        "first_chapter_link": "",
+        "sunday_review_link": "",
+        "article_chapter_link": "",
+        "isbns": [
+          {
+            "isbn10": "059344955X",
+            "isbn13": "9780593449554"
+          },
+          {
+            "isbn10": "0593449568",
+            "isbn13": "9780593449561"
+          },
+          {
+            "isbn10": "0593633237",
+            "isbn13": "9780593633236"
+          },
+          {
+            "isbn10": "0593633229",
+            "isbn13": "9780593633229"
+          }
+        ],
+        "buy_links": [
+          {
+            "name": "Amazon",
+            "url": "https:\/\/www.amazon.com\/dp\/059344955X?tag=NYTBSREV-20"
+          },
+          {
+            "name": "Apple Books",
+            "url": "https:\/\/goto.applebooks.apple\/9780593449554?at=10lIEQ"
+          },
+          {
+            "name": "Barnes and Noble",
+            "url": "https:\/\/www.anrdoezrs.net\/click-7990613-11819508?url=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2F%3Fean%3D9780593449554"
+          },
+          {
+            "name": "Books-A-Million",
+            "url": "https:\/\/du-gae-books-dot-nyt-du-prd.appspot.com\/redirect?url1=https%3A%2F%2Fwww.anrdoezrs.net%2Fclick-7990613-35140%3Furl%3Dhttps%253A%252F%252Fwww.booksamillion.com%252Fp%252FDREAMLAND%252FNicholas%252BSparks%252F9780593449554&url2=https%3A%2F%2Fwww.anrdoezrs.net%2Fclick-7990613-35140%3Furl%3Dhttps%253A%252F%252Fwww.booksamillion.com%252Fsearch%253Fquery%253DDREAMLAND%252BNicholas%252BSparks"
+          },
+          {
+            "name": "Bookshop",
+            "url": "https:\/\/du-gae-books-dot-nyt-du-prd.appspot.com\/redirect?url1=https%3A%2F%2Fbookshop.org%2Fa%2F3546%2F9780593449554&url2=https%3A%2F%2Fbookshop.org%2Fbooks%3Faffiliate%3D3546%26keywords%3DDREAMLAND"
+          },
+          {
+            "name": "IndieBound",
+            "url": "https:\/\/du-gae-books-dot-nyt-du-prd.appspot.com\/redirect?url1=https%3A%2F%2Fwww.indiebound.org%2Fbook%2F9780593449554%3Faff%3DNYT&url2=https%3A%2F%2Fwww.indiebound.org%2Fsearch%2Fbook%3Fkeys%3DDREAMLAND%2BNicholas%2BSparks%26aff%3DNYT"
+          }
+        ],
+        "book_uri": "nyt:\/\/book\/61e3a1f0-08db-5240-9ee0-72308b3b9b9d"
+      },
+      {
+        "rank": 9,
+        "rank_last_week": 8,
+        "weeks_on_list": 39,
+        "asterisk": 0,
+        "dagger": 0,
+        "primary_isbn10": "1476753180",
+        "primary_isbn13": "9781476753188",
+        "publisher": "Atria",
+        "description": "Tate Collins and Miles Archer,\u00a0an airline pilot, think they can handle a no strings attached arrangement. But they can't.",
+        "price": "0.00",
+        "title": "UGLY LOVE",
+        "author": "Colleen Hoover",
+        "contributor": "by Colleen Hoover",
+        "contributor_note": "",
+        "book_image": "https:\/\/storage.googleapis.com\/du-prd\/books\/images\/9781476753195.jpg",
+        "book_image_width": 128,
+        "book_image_height": 198,
+        "amazon_product_url": "http:\/\/www.amazon.com\/Ugly-Love-Novel-Colleen-Hoover-ebook\/dp\/B00HB62MC0?tag=NYTBSREV-20",
+        "age_group": "",
+        "book_review_link": "",
+        "first_chapter_link": "",
+        "sunday_review_link": "",
+        "article_chapter_link": "",
+        "isbns": [
+          {
+            "isbn10": "1476753180",
+            "isbn13": "9781476753188"
+          },
+          {
+            "isbn10": "1471136736",
+            "isbn13": "9781471136733"
+          }
+        ],
+        "buy_links": [
+          {
+            "name": "Amazon",
+            "url": "http:\/\/www.amazon.com\/Ugly-Love-Novel-Colleen-Hoover-ebook\/dp\/B00HB62MC0?tag=NYTBSREV-20"
+          },
+          {
+            "name": "Apple Books",
+            "url": "https:\/\/goto.applebooks.apple\/9781476753188?at=10lIEQ"
+          },
+          {
+            "name": "Barnes and Noble",
+            "url": "https:\/\/www.anrdoezrs.net\/click-7990613-11819508?url=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2F%3Fean%3D9781476753188"
+          },
+          {
+            "name": "Books-A-Million",
+            "url": "https:\/\/du-gae-books-dot-nyt-du-prd.appspot.com\/redirect?url1=https%3A%2F%2Fwww.anrdoezrs.net%2Fclick-7990613-35140%3Furl%3Dhttps%253A%252F%252Fwww.booksamillion.com%252Fp%252FUGLY%252BLOVE%252FColleen%252BHoover%252F9781476753188&url2=https%3A%2F%2Fwww.anrdoezrs.net%2Fclick-7990613-35140%3Furl%3Dhttps%253A%252F%252Fwww.booksamillion.com%252Fsearch%253Fquery%253DUGLY%252BLOVE%252BColleen%252BHoover"
+          },
+          {
+            "name": "Bookshop",
+            "url": "https:\/\/du-gae-books-dot-nyt-du-prd.appspot.com\/redirect?url1=https%3A%2F%2Fbookshop.org%2Fa%2F3546%2F9781476753188&url2=https%3A%2F%2Fbookshop.org%2Fbooks%3Faffiliate%3D3546%26keywords%3DUGLY%2BLOVE"
+          },
+          {
+            "name": "IndieBound",
+            "url": "https:\/\/du-gae-books-dot-nyt-du-prd.appspot.com\/redirect?url1=https%3A%2F%2Fwww.indiebound.org%2Fbook%2F9781476753188%3Faff%3DNYT&url2=https%3A%2F%2Fwww.indiebound.org%2Fsearch%2Fbook%3Fkeys%3DUGLY%2BLOVE%2BColleen%2BHoover%26aff%3DNYT"
+          }
+        ],
+        "book_uri": "nyt:\/\/book\/08464a1b-cfd4-5d1b-8898-e206fb95deeb"
+      },
+      {
+        "rank": 10,
+        "rank_last_week": 10,
+        "weeks_on_list": 67,
+        "asterisk": 0,
+        "dagger": 0,
+        "primary_isbn10": "1501161938",
+        "primary_isbn13": "9781501161933",
+        "publisher": "Washington Square\/Atria",
+        "description": "A movie icon recounts stories of her loves and career to a struggling magazine writer.",
+        "price": "0.00",
+        "title": "THE SEVEN HUSBANDS OF EVELYN HUGO",
+        "author": "Taylor Jenkins Reid",
+        "contributor": "by Taylor Jenkins Reid",
+        "contributor_note": "",
+        "book_image": "https:\/\/storage.googleapis.com\/du-prd\/books\/images\/9781501161933.jpg",
+        "book_image_width": 315,
+        "book_image_height": 500,
+        "amazon_product_url": "https:\/\/www.amazon.com\/dp\/1501161938?tag=NYTBSREV-20",
+        "age_group": "",
+        "book_review_link": "",
+        "first_chapter_link": "",
+        "sunday_review_link": "",
+        "article_chapter_link": "",
+        "isbns": [
+          {
+            "isbn10": "1501161938",
+            "isbn13": "9781501161933"
+          },
+          {
+            "isbn10": "150113924X",
+            "isbn13": "9781501139246"
+          },
+          {
+            "isbn10": "1501139231",
+            "isbn13": "9781501139239"
+          },
+          {
+            "isbn10": "1797106325",
+            "isbn13": "9781797106328"
+          }
+        ],
+        "buy_links": [
+          {
+            "name": "Amazon",
+            "url": "https:\/\/www.amazon.com\/dp\/1501161938?tag=NYTBSREV-20"
+          },
+          {
+            "name": "Apple Books",
+            "url": "https:\/\/goto.applebooks.apple\/9781501161933?at=10lIEQ"
+          },
+          {
+            "name": "Barnes and Noble",
+            "url": "https:\/\/www.anrdoezrs.net\/click-7990613-11819508?url=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2F%3Fean%3D9781501161933"
+          },
+          {
+            "name": "Books-A-Million",
+            "url": "https:\/\/du-gae-books-dot-nyt-du-prd.appspot.com\/redirect?url1=https%3A%2F%2Fwww.anrdoezrs.net%2Fclick-7990613-35140%3Furl%3Dhttps%253A%252F%252Fwww.booksamillion.com%252Fp%252FTHE%252BSEVEN%252BHUSBANDS%252BOF%252BEVELYN%252BHUGO%252FTaylor%252BJenkins%252BReid%252F9781501161933&url2=https%3A%2F%2Fwww.anrdoezrs.net%2Fclick-7990613-35140%3Furl%3Dhttps%253A%252F%252Fwww.booksamillion.com%252Fsearch%253Fquery%253DTHE%252BSEVEN%252BHUSBANDS%252BOF%252BEVELYN%252BHUGO%252BTaylor%252BJenkins%252BReid"
+          },
+          {
+            "name": "Bookshop",
+            "url": "https:\/\/du-gae-books-dot-nyt-du-prd.appspot.com\/redirect?url1=https%3A%2F%2Fbookshop.org%2Fa%2F3546%2F9781501161933&url2=https%3A%2F%2Fbookshop.org%2Fbooks%3Faffiliate%3D3546%26keywords%3DTHE%2BSEVEN%2BHUSBANDS%2BOF%2BEVELYN%2BHUGO"
+          },
+          {
+            "name": "IndieBound",
+            "url": "https:\/\/du-gae-books-dot-nyt-du-prd.appspot.com\/redirect?url1=https%3A%2F%2Fwww.indiebound.org%2Fbook%2F9781501161933%3Faff%3DNYT&url2=https%3A%2F%2Fwww.indiebound.org%2Fsearch%2Fbook%3Fkeys%3DTHE%2BSEVEN%2BHUSBANDS%2BOF%2BEVELYN%2BHUGO%2BTaylor%2BJenkins%2BReid%26aff%3DNYT"
+          }
+        ],
+        "book_uri": "nyt:\/\/book\/d9511fac-ee44-5a87-9af7-2cd6a6f8f984"
+      },
+      {
+        "rank": 11,
+        "rank_last_week": 11,
+        "weeks_on_list": 29,
+        "asterisk": 0,
+        "dagger": 0,
+        "primary_isbn10": "1501110349",
+        "primary_isbn13": "9781501110344",
+        "publisher": "Atria",
+        "description": "Is Ben using his relationship with Fallon as fodder for his novel?",
+        "price": "0.00",
+        "title": "NOVEMBER 9",
+        "author": "Colleen Hoover",
+        "contributor": "by Colleen Hoover",
+        "contributor_note": "",
+        "book_image": "https:\/\/storage.googleapis.com\/du-prd\/books\/images\/9781501110351.jpg",
+        "book_image_width": 318,
+        "book_image_height": 495,
+        "amazon_product_url": "http:\/\/www.amazon.com\/November-9-Novel-Colleen-Hoover-ebook\/dp\/B00UDCI1S8?tag=NYTBSREV-20",
+        "age_group": "",
+        "book_review_link": "",
+        "first_chapter_link": "",
+        "sunday_review_link": "",
+        "article_chapter_link": "",
+        "isbns": [
+          {
+            "isbn10": "1501110349",
+            "isbn13": "9781501110344"
+          },
+          {
+            "isbn10": "1501110357",
+            "isbn13": "9781501110351"
+          },
+          {
+            "isbn10": "1471154637",
+            "isbn13": "9781471154638"
+          },
+          {
+            "isbn10": "1442388900",
+            "isbn13": "9781442388901"
+          },
+          {
+            "isbn10": "1508284989",
+            "isbn13": "9781508284987"
+          }
+        ],
+        "buy_links": [
+          {
+            "name": "Amazon",
+            "url": "http:\/\/www.amazon.com\/November-9-Novel-Colleen-Hoover-ebook\/dp\/B00UDCI1S8?tag=NYTBSREV-20"
+          },
+          {
+            "name": "Apple Books",
+            "url": "https:\/\/goto.applebooks.apple\/9781501110344?at=10lIEQ"
+          },
+          {
+            "name": "Barnes and Noble",
+            "url": "https:\/\/www.anrdoezrs.net\/click-7990613-11819508?url=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2F%3Fean%3D9781501110344"
+          },
+          {
+            "name": "Books-A-Million",
+            "url": "https:\/\/du-gae-books-dot-nyt-du-prd.appspot.com\/redirect?url1=https%3A%2F%2Fwww.anrdoezrs.net%2Fclick-7990613-35140%3Furl%3Dhttps%253A%252F%252Fwww.booksamillion.com%252Fp%252FNOVEMBER%252B9%252FColleen%252BHoover%252F9781501110344&url2=https%3A%2F%2Fwww.anrdoezrs.net%2Fclick-7990613-35140%3Furl%3Dhttps%253A%252F%252Fwww.booksamillion.com%252Fsearch%253Fquery%253DNOVEMBER%252B9%252BColleen%252BHoover"
+          },
+          {
+            "name": "Bookshop",
+            "url": "https:\/\/du-gae-books-dot-nyt-du-prd.appspot.com\/redirect?url1=https%3A%2F%2Fbookshop.org%2Fa%2F3546%2F9781501110344&url2=https%3A%2F%2Fbookshop.org%2Fbooks%3Faffiliate%3D3546%26keywords%3DNOVEMBER%2B9"
+          },
+          {
+            "name": "IndieBound",
+            "url": "https:\/\/du-gae-books-dot-nyt-du-prd.appspot.com\/redirect?url1=https%3A%2F%2Fwww.indiebound.org%2Fbook%2F9781501110344%3Faff%3DNYT&url2=https%3A%2F%2Fwww.indiebound.org%2Fsearch%2Fbook%3Fkeys%3DNOVEMBER%2B9%2BColleen%2BHoover%26aff%3DNYT"
+          }
+        ],
+        "book_uri": "nyt:\/\/book\/74a835a9-0f52-5060-914b-b390b1e0864d"
+      },
+      {
+        "rank": 12,
+        "rank_last_week": 14,
+        "weeks_on_list": 3,
+        "asterisk": 0,
+        "dagger": 0,
+        "primary_isbn10": "1668013347",
+        "primary_isbn13": "9781668013342",
+        "publisher": "Atria",
+        "description": "The third book in the Maybe Someday series. Maggie, Ridge and Sydney are forced to deal with the dynamics of their relationships.",
+        "price": "0.00",
+        "title": "MAYBE NOW",
+        "author": "Colleen Hoover",
+        "contributor": "by Colleen Hoover",
+        "contributor_note": "",
+        "book_image": "https:\/\/storage.googleapis.com\/du-prd\/books\/images\/9781668013342.jpg",
+        "book_image_width": 322,
+        "book_image_height": 500,
+        "amazon_product_url": "https:\/\/www.amazon.com\/dp\/1668013347?tag=NYTBSREV-20",
+        "age_group": "",
+        "book_review_link": "",
+        "first_chapter_link": "",
+        "sunday_review_link": "",
+        "article_chapter_link": "",
+        "isbns": [
+          {
+            "isbn10": "1668013347",
+            "isbn13": "9781668013342"
+          },
+          {
+            "isbn10": "1668013355",
+            "isbn13": "9781668013359"
+          }
+        ],
+        "buy_links": [
+          {
+            "name": "Amazon",
+            "url": "https:\/\/www.amazon.com\/dp\/1668013347?tag=NYTBSREV-20"
+          },
+          {
+            "name": "Apple Books",
+            "url": "https:\/\/goto.applebooks.apple\/9781668013342?at=10lIEQ"
+          },
+          {
+            "name": "Barnes and Noble",
+            "url": "https:\/\/www.anrdoezrs.net\/click-7990613-11819508?url=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2F%3Fean%3D9781668013342"
+          },
+          {
+            "name": "Books-A-Million",
+            "url": "https:\/\/du-gae-books-dot-nyt-du-prd.appspot.com\/redirect?url1=https%3A%2F%2Fwww.anrdoezrs.net%2Fclick-7990613-35140%3Furl%3Dhttps%253A%252F%252Fwww.booksamillion.com%252Fp%252FMAYBE%252BNOW%252FColleen%252BHoover%252F9781668013342&url2=https%3A%2F%2Fwww.anrdoezrs.net%2Fclick-7990613-35140%3Furl%3Dhttps%253A%252F%252Fwww.booksamillion.com%252Fsearch%253Fquery%253DMAYBE%252BNOW%252BColleen%252BHoover"
+          },
+          {
+            "name": "Bookshop",
+            "url": "https:\/\/du-gae-books-dot-nyt-du-prd.appspot.com\/redirect?url1=https%3A%2F%2Fbookshop.org%2Fa%2F3546%2F9781668013342&url2=https%3A%2F%2Fbookshop.org%2Fbooks%3Faffiliate%3D3546%26keywords%3DMAYBE%2BNOW"
+          },
+          {
+            "name": "IndieBound",
+            "url": "https:\/\/du-gae-books-dot-nyt-du-prd.appspot.com\/redirect?url1=https%3A%2F%2Fwww.indiebound.org%2Fbook%2F9781668013342%3Faff%3DNYT&url2=https%3A%2F%2Fwww.indiebound.org%2Fsearch%2Fbook%3Fkeys%3DMAYBE%2BNOW%2BColleen%2BHoover%26aff%3DNYT"
+          }
+        ],
+        "book_uri": "nyt:\/\/book\/d1569900-2c93-52c5-94a7-6c445983d401"
+      },
+      {
+        "rank": 13,
+        "rank_last_week": 0,
+        "weeks_on_list": 1,
+        "asterisk": 0,
+        "dagger": 0,
+        "primary_isbn10": "0316460915",
+        "primary_isbn13": "9780316460910",
+        "publisher": "Little, Brown",
+        "description": "A collection of nine stories set during summers in Nantucket.",
+        "price": "0.00",
+        "title": "ENDLESS SUMMER",
+        "author": "Elin Hilderbrand",
+        "contributor": "by Elin Hilderbrand",
+        "contributor_note": "",
+        "book_image": "https:\/\/storage.googleapis.com\/du-prd\/books\/images\/9780316460910.jpg",
+        "book_image_width": 323,
+        "book_image_height": 500,
+        "amazon_product_url": "https:\/\/www.amazon.com\/dp\/0316460915?tag=NYTBSREV-20",
+        "age_group": "",
+        "book_review_link": "",
+        "first_chapter_link": "",
+        "sunday_review_link": "",
+        "article_chapter_link": "",
+        "isbns": [
+          {
+            "isbn10": "0316460915",
+            "isbn13": "9780316460910"
+          },
+          {
+            "isbn10": "0316474525",
+            "isbn13": "9780316474528"
+          },
+          {
+            "isbn10": "031646113X",
+            "isbn13": "9780316461139"
+          }
+        ],
+        "buy_links": [
+          {
+            "name": "Amazon",
+            "url": "https:\/\/www.amazon.com\/dp\/0316460915?tag=NYTBSREV-20"
+          },
+          {
+            "name": "Apple Books",
+            "url": "https:\/\/goto.applebooks.apple\/9780316460910?at=10lIEQ"
+          },
+          {
+            "name": "Barnes and Noble",
+            "url": "https:\/\/www.anrdoezrs.net\/click-7990613-11819508?url=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2F%3Fean%3D9780316460910"
+          },
+          {
+            "name": "Books-A-Million",
+            "url": "https:\/\/du-gae-books-dot-nyt-du-prd.appspot.com\/redirect?url1=https%3A%2F%2Fwww.anrdoezrs.net%2Fclick-7990613-35140%3Furl%3Dhttps%253A%252F%252Fwww.booksamillion.com%252Fp%252FENDLESS%252BSUMMER%252FElin%252BHilderbrand%252F9780316460910&url2=https%3A%2F%2Fwww.anrdoezrs.net%2Fclick-7990613-35140%3Furl%3Dhttps%253A%252F%252Fwww.booksamillion.com%252Fsearch%253Fquery%253DENDLESS%252BSUMMER%252BElin%252BHilderbrand"
+          },
+          {
+            "name": "Bookshop",
+            "url": "https:\/\/du-gae-books-dot-nyt-du-prd.appspot.com\/redirect?url1=https%3A%2F%2Fbookshop.org%2Fa%2F3546%2F9780316460910&url2=https%3A%2F%2Fbookshop.org%2Fbooks%3Faffiliate%3D3546%26keywords%3DENDLESS%2BSUMMER"
+          },
+          {
+            "name": "IndieBound",
+            "url": "https:\/\/du-gae-books-dot-nyt-du-prd.appspot.com\/redirect?url1=https%3A%2F%2Fwww.indiebound.org%2Fbook%2F9780316460910%3Faff%3DNYT&url2=https%3A%2F%2Fwww.indiebound.org%2Fsearch%2Fbook%3Fkeys%3DENDLESS%2BSUMMER%2BElin%2BHilderbrand%26aff%3DNYT"
+          }
+        ],
+        "book_uri": "nyt:\/\/book\/b7496b8e-b965-5f3d-974e-e8473c730e4c"
+      },
+      {
+        "rank": 14,
+        "rank_last_week": 12,
+        "weeks_on_list": 4,
+        "asterisk": 0,
+        "dagger": 0,
+        "primary_isbn10": "0316499633",
+        "primary_isbn13": "9780316499637",
+        "publisher": "Little, Brown",
+        "description": "President Keegan Barrett\u2019s power grab tests the loyalties of two C.I.A. agents.",
+        "price": "0.00",
+        "title": "BLOWBACK",
+        "author": "James Patterson and Brendan DuBois",
+        "contributor": "by James Patterson and Brendan DuBois",
+        "contributor_note": "",
+        "book_image": "https:\/\/storage.googleapis.com\/du-prd\/books\/images\/9780316499637.jpg",
+        "book_image_width": 331,
+        "book_image_height": 500,
+        "amazon_product_url": "https:\/\/www.amazon.com\/dp\/0316499633?tag=NYTBSREV-20",
+        "age_group": "",
+        "book_review_link": "",
+        "first_chapter_link": "",
+        "sunday_review_link": "",
+        "article_chapter_link": "",
+        "isbns": [
+          {
+            "isbn10": "0316499633",
+            "isbn13": "9780316499637"
+          },
+          {
+            "isbn10": "031649965X",
+            "isbn13": "9780316499651"
+          },
+          {
+            "isbn10": "031647343X",
+            "isbn13": "9780316473439"
+          }
+        ],
+        "buy_links": [
+          {
+            "name": "Amazon",
+            "url": "https:\/\/www.amazon.com\/dp\/0316499633?tag=NYTBSREV-20"
+          },
+          {
+            "name": "Apple Books",
+            "url": "https:\/\/goto.applebooks.apple\/9780316499637?at=10lIEQ"
+          },
+          {
+            "name": "Barnes and Noble",
+            "url": "https:\/\/www.anrdoezrs.net\/click-7990613-11819508?url=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2F%3Fean%3D9780316499637"
+          },
+          {
+            "name": "Books-A-Million",
+            "url": "https:\/\/du-gae-books-dot-nyt-du-prd.appspot.com\/redirect?url1=https%3A%2F%2Fwww.anrdoezrs.net%2Fclick-7990613-35140%3Furl%3Dhttps%253A%252F%252Fwww.booksamillion.com%252Fp%252FBLOWBACK%252FJames%252BPatterson%252Band%252BBrendan%252BDuBois%252F9780316499637&url2=https%3A%2F%2Fwww.anrdoezrs.net%2Fclick-7990613-35140%3Furl%3Dhttps%253A%252F%252Fwww.booksamillion.com%252Fsearch%253Fquery%253DBLOWBACK%252BJames%252BPatterson%252Band%252BBrendan%252BDuBois"
+          },
+          {
+            "name": "Bookshop",
+            "url": "https:\/\/du-gae-books-dot-nyt-du-prd.appspot.com\/redirect?url1=https%3A%2F%2Fbookshop.org%2Fa%2F3546%2F9780316499637&url2=https%3A%2F%2Fbookshop.org%2Fbooks%3Faffiliate%3D3546%26keywords%3DBLOWBACK"
+          },
+          {
+            "name": "IndieBound",
+            "url": "https:\/\/du-gae-books-dot-nyt-du-prd.appspot.com\/redirect?url1=https%3A%2F%2Fwww.indiebound.org%2Fbook%2F9780316499637%3Faff%3DNYT&url2=https%3A%2F%2Fwww.indiebound.org%2Fsearch%2Fbook%3Fkeys%3DBLOWBACK%2BJames%2BPatterson%2Band%2BBrendan%2BDuBois%26aff%3DNYT"
+          }
+        ],
+        "book_uri": "nyt:\/\/book\/befe7f67-43f1-565e-b59f-6c9e3c22a089"
+      },
+      {
+        "rank": 15,
+        "rank_last_week": 0,
+        "weeks_on_list": 50,
+        "asterisk": 0,
+        "dagger": 0,
+        "primary_isbn10": "125030170X",
+        "primary_isbn13": "9781250301703",
+        "publisher": "Celadon",
+        "description": "Theo Faber looks into the mystery of a famous painter who stops speaking after shooting her husband.",
+        "price": "0.00",
+        "title": "THE SILENT PATIENT",
+        "author": "Alex Michaelides",
+        "contributor": "by Alex Michaelides",
+        "contributor_note": "",
+        "book_image": "https:\/\/storage.googleapis.com\/du-prd\/books\/images\/9781250301697.jpg",
+        "book_image_width": 326,
+        "book_image_height": 495,
+        "amazon_product_url": "https:\/\/www.amazon.com\/Silent-Patient-Alex-Michaelides\/dp\/1250301696?tag=NYTBSREV-20",
+        "age_group": "",
+        "book_review_link": "",
+        "first_chapter_link": "",
+        "sunday_review_link": "",
+        "article_chapter_link": "",
+        "isbns": [
+          {
+            "isbn10": "1250301696",
+            "isbn13": "9781250301697"
+          },
+          {
+            "isbn10": "1250301718",
+            "isbn13": "9781250301710"
+          },
+          {
+            "isbn10": "1250317541",
+            "isbn13": "9781250317544"
+          },
+          {
+            "isbn10": "1432858645",
+            "isbn13": "9781432858643"
+          },
+          {
+            "isbn10": "125030170X",
+            "isbn13": "9781250301703"
+          }
+        ],
+        "buy_links": [
+          {
+            "name": "Amazon",
+            "url": "https:\/\/www.amazon.com\/Silent-Patient-Alex-Michaelides\/dp\/1250301696?tag=NYTBSREV-20"
+          },
+          {
+            "name": "Apple Books",
+            "url": "https:\/\/goto.applebooks.apple\/9781250301703?at=10lIEQ"
+          },
+          {
+            "name": "Barnes and Noble",
+            "url": "https:\/\/www.anrdoezrs.net\/click-7990613-11819508?url=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2F%3Fean%3D9781250301703"
+          },
+          {
+            "name": "Books-A-Million",
+            "url": "https:\/\/du-gae-books-dot-nyt-du-prd.appspot.com\/redirect?url1=https%3A%2F%2Fwww.anrdoezrs.net%2Fclick-7990613-35140%3Furl%3Dhttps%253A%252F%252Fwww.booksamillion.com%252Fp%252FTHE%252BSILENT%252BPATIENT%252FAlex%252BMichaelides%252F9781250301703&url2=https%3A%2F%2Fwww.anrdoezrs.net%2Fclick-7990613-35140%3Furl%3Dhttps%253A%252F%252Fwww.booksamillion.com%252Fsearch%253Fquery%253DTHE%252BSILENT%252BPATIENT%252BAlex%252BMichaelides"
+          },
+          {
+            "name": "Bookshop",
+            "url": "https:\/\/du-gae-books-dot-nyt-du-prd.appspot.com\/redirect?url1=https%3A%2F%2Fbookshop.org%2Fa%2F3546%2F9781250301703&url2=https%3A%2F%2Fbookshop.org%2Fbooks%3Faffiliate%3D3546%26keywords%3DTHE%2BSILENT%2BPATIENT"
+          },
+          {
+            "name": "IndieBound",
+            "url": "https:\/\/du-gae-books-dot-nyt-du-prd.appspot.com\/redirect?url1=https%3A%2F%2Fwww.indiebound.org%2Fbook%2F9781250301703%3Faff%3DNYT&url2=https%3A%2F%2Fwww.indiebound.org%2Fsearch%2Fbook%3Fkeys%3DTHE%2BSILENT%2BPATIENT%2BAlex%2BMichaelides%26aff%3DNYT"
+          }
+        ],
+        "book_uri": "nyt:\/\/book\/b29e079d-2ac4-54bf-b6da-ca9daa59f616"
+      }
+    ],
+    "corrections": []
+  }
+}
