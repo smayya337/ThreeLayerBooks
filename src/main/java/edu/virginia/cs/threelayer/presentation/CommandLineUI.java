@@ -1,4 +1,4 @@
-package edu.virginia.cs.threelayer.presentation.clui;
+package edu.virginia.cs.threelayer.presentation;
 
 import edu.virginia.cs.threelayer.BestSellersList;
 import edu.virginia.cs.threelayer.Book;

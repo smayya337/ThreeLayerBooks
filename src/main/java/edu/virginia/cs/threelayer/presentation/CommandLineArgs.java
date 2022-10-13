@@ -1,9 +1,9 @@
-package edu.virginia.cs.threelayer.presentation.args;
+package edu.virginia.cs.threelayer.presentation;
 
 import edu.virginia.cs.threelayer.*;
 import edu.virginia.cs.threelayer.business.BestSellersService;
 
-public class Main {
+public class CommandLineArgs {
     public static void main(String [] args) {
         if (args.length < 1) {
             throw new IllegalArgumentException(getBadArgumentsMessage());
