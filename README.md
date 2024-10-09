@@ -1,9 +1,11 @@
-Please note to use this code, you will need an API Key from the New York Times BooksAPI, which you can generate by signing up for an account here. You will need to create a new app with the Books API, then past your API Key (not the secret key) int a text file saved as:
+# Three Layer Books Example
 
-src/main/resource/nytimes.key
+A simple "three-layer architecture" example to illustrate how different UIs can access the same business logic layer
+to allow us to separate the UI from the "core app" under the hood.
+
+The second branch, gui, also adds a JavaFX build, but hasn't been merged as installing JavaFX can be higher effort.
 
 This application is working, but you need to specify an API key.
-
 
 You can sign up for an account here: https://developer.nytimes.com/apis 
 
